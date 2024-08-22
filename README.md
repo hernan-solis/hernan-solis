@@ -5,8 +5,8 @@
 <a href = "mailto:hernansolis94k@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.instagram.com/hernan.solisok/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="unsimpledev"  /></a>
 
-  </p>
-<br>
+</p>
+
 <h2>About me 😃</h2>
 <!--Intro start-->
 
