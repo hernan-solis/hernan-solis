@@ -11,11 +11,11 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 FUTURO TECNICO UNIVERSITARIO EN PROGRAMACIÓN
+🎓 FUTURO TECNICO UNIVERSITARIO EN PROGRAMACIÓN - UTN FRGP
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 Unos cuántos años de experiencia en el proceso de desarrollo de software.
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 Roles en el ámbito: desarrollador.
 
 📫 Contacto: **hernansolis94k@gmail.com**
 <!--Intro end-->
@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=,c,cs,cpp,java,py,dotnet,html,css,mysql,git,github,eclipse,vscode,linux,ps&perline=12" />
   </a>
 </p>
 <br>
