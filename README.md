@@ -21,9 +21,7 @@
 
 I consider myself hardworking and responsible, always looking to learn more and improve my skills. I'm also a precise and organized person, which allows me to achieve my goals effectively and efficiently. I value collaboration and assertive communication, I am practical, perceptive, and highly responsible, which helps me work well both in teams and on individual projects.
 <!--Intro end-->
-  </p>
 <br>
-
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
