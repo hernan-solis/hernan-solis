@@ -80,7 +80,6 @@ No activity tracked
 
 ---
 
-<img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
 
 <div align="center">
    <img src="https://visitcount.itsvg.in/api?id=pranshu05&icon=0&color=0">
