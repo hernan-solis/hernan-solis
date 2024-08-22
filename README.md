@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Hernan Solis / Hache94k ✨ </h1> 
+<h1 align="center">Hello World 👋  I´m Hernan Solis / Hache94k ✨ </h1> 
 
 <p align="left">
 <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -7,17 +7,17 @@
 
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>About me 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 FUTURO TECNICO UNIVERSITARIO EN PROGRAMACIÓN - UTN FRGP
+🎓 FUTURE UNIVERSITY TECHNICIAN IN PROGRAMMING - UTNFRGP
 
-💻 Unos cuántos años de experiencia en el proceso de desarrollo de software.
+💻 A few years of experience in the software development process.
 
-📝 Roles en el ámbito: desarrollador.
+📝 Roles in the field: Developer.
 
-📫 Contacto: **hernansolis94k@gmail.com**
+📫 Contact: **hernansolis94k@gmail.com**
 <!--Intro end-->
   </p>
 <br>
@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,py,eclipse,html,css,bootstrap,mysql,git,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,vscode,java,eclipse,py,linux,html,css,bootstrap,mysql,git,github" />
   </a>
 </p>
 <br>
