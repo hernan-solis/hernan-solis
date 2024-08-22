@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋  I´m Hernan Solis / Hache94k ✨ </h1> 
+<h1 align="center">Hello World! 👋  I´m Hernan Solis / Hache94k ✨ </h1> 
 
 <p align="left">
 <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -18,6 +18,8 @@
 📝 Roles in the field: Developer.
 
 📫 Contact: **hernansolis94k@gmail.com**
+
+I consider myself hardworking and responsible, always looking to learn more and improve my skills. I'm also a precise and organized person, which allows me to achieve my goals effectively and efficiently. I value collaboration and assertive communication, I am practical, perceptive, and highly responsible, which helps me work well both in teams and on individual projects.
 <!--Intro end-->
   </p>
 <br>
