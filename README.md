@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋  I´m Hernan Solis / Hache94k ✨ </h1> 
+<h1 align="center">Hello World! 👋  I´m Hernan Solis / Hache94k 🖥️ </h1> 
 
 <p align="left">
 <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -15,7 +15,7 @@
 
 💻 A few years of experience in the software development process.
 
-📝 Roles in the field: Developer.
+📝 Roles in the field: Software Developer.
 
 📫 Contact: **hernansolis94k@gmail.com**
 
