@@ -1,5 +1,3 @@
-
-
 <br clear="left"/>
 
 <div align="right" >
@@ -18,74 +16,145 @@
 - 🔭 I’m currently working on [Elpha](https://github.com/pranshu05/elpha)
 
 - 🌱 I’m currently learning **Typescript**
+<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
 
-- 👯 I’m looking to collaborate on **Discord bot**
+<p align="left">
+  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
+<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-- 👨‍💻 All of my projects are available at [https://pranshu05.github.io](https://pranshu05.github.io)
+<p align="left">
+🎓 INGENIERO EN INFORMÁTICA
 
-- 💬 Ask me about **discord.js**
+🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
-- 📫 How to reach me **pranshu05patel@gmail.com**
+💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
 
-- ⚡ Fun fact **I am chess enthusiast**
+📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-# Server
+📫 Contacto: **unsimpledev@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
 
-<div align="center">
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
 
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
 
-   
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
+
+<!------------------------->
+<div id="apoyo">
+<h2>Si quieres apoyarme 😻</h2>
+  <p align="left">
+ <a href='https://cafecito.app/unsimpledev' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_1.png' alt='Invitame un café en cafecito.app' align="left" height="50" width="230"/></a>
+    
+<a href='https://matecito.co/unsimpledev' rel='noopener' target='_blank'><img srcset='https://www.matecito.co/public/button_11.png 1x, https://www.matecito.co/public/button_11_2x.png 2x, https://www.matecito.co/public/button_11_3.75x.png 3.75x' src='https://www.matecito.co/public/button_11.png' alt='Convidame un Matecito' align="left" height="50" width="240" /></a>
+
+    
+    
+<a href="https://ko-fi.com/unsimpledev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="unsimpledev" /></a>
+  </p>
 </div>
+  <br>
+<br><br>
 
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CVyx9qyYPF) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pranshu.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hernan-abel-solis/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/pranshu05patel) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Pranshu-Patel-83) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/pranshu2005) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pranshu_05) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@pranshu05) [![ITCH](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pranshu05)
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> -->
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+</td>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+<td width="40%" align="center">
 
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-# 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [My 15 Days Blender Progression](https://www.youtube.com/watch?v=N3KLYw2gjNs)
-- [Pendulum Waves | Blender](https://www.youtube.com/watch?v=Z7iNiIMFzkM)
-- [First 3D Animation - Update | Blender | Learning Blender](https://www.youtube.com/watch?v=JnQH41gab1U)
-- [First 3D Animation | Blender | Learning Blender](https://www.youtube.com/watch?v=5clT9DouI-4)
-- [First game | Devlog #1 |  Made at age of 14](https://www.youtube.com/watch?v=U8Iv8Pjg8Mo)
-<!-- YOUTUBE:END -->
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
-## 📊 Last week so far
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<img align="left" width="300" height="300"  src="https://user-images.githubusercontent.com/70943732/209953989-93d355f4-7913-4c81-8aa0-b6d4eca237b0.png">
-
-<div align="right">
-
-![Metrics](https://metrics.lecoq.io/pranshu05?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)
-   
+<!--- trophy (start) -->
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
 </div>
+<!--- trophy (start) -->
 
 
-# Stats
-
-| ![Pranshu Patel's github stats](https://github-readme-stats.vercel.app/api?username=pranshu05&theme=default&hide_border=false&include_all_commits=true&count_private=true) | ![Pranshu Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranshu05&theme=default&hide_border=false&include_all_commits=true&count_private=true) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Trophy](https://github-profile-trophy.vercel.app/?username=pranshu05&include_all_commits=true&count_private=true) |
-
----
-
-
-<div align="center">
-   <img src="https://visitcount.itsvg.in/api?id=pranshu05&icon=0&color=0">
-</div>
-
-------
-
-Credit: [pranshu05](https://github.com/pranshu05)
-Last Edited on: 02/01/2023
+</p>        
+<!--- stats (end) -->
