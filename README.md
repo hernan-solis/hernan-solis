@@ -110,12 +110,12 @@ I consider myself hardworking and responsible, always looking to learn more and 
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hernan-solis&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=hernan-solis&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /> 
 </td>
 
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernan-solis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernan-solis&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
   </td>
 </tr>
@@ -125,7 +125,7 @@ I consider myself hardworking and responsible, always looking to learn more and 
 <!--- trophy (start) -->
 <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Hache94k&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-trophies.vercel.app/?username=hernan-solis&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
