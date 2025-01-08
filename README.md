@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋  I´m Hernan Solis / Hache94k 💻 </h1> 
+<h1 align="center">Hello World! 👋  I´m Hernan Solis 💻 </h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/hernan-abel-solis/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -110,12 +110,12 @@ I consider myself hardworking and responsible, always looking to learn more and 
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hache94k&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hernan-solis&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hache94k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernan-solis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
   </td>
 </tr>
