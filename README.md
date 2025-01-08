@@ -3,9 +3,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hernan-abel-solis/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:hernansolis94k@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://hernansolis.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="unsimpledev"  /></a>
 <a href="https://hernansolis.com/" target="blank"><img align="center" src="https://img.shields.io/badge/WEB-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="unsimpledev"  /></a>
-<a href="https://hernansolis.com/" target="blank"><img align="center" src="https://img.shields.io/badge/WEB-E4405F?style=for-the-badge&logo=WEB&logoColor=white" alt="unsimpledev"  /></a>
+
 
 </p>
 
