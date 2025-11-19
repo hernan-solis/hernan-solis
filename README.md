@@ -40,19 +40,20 @@ I consider myself hardworking and responsible, always looking to learn more and 
 <!-- Sección GitHub Stats -->
 <h2>GitHub :octocat:</h2>
 
-<!-- CONTENEDOR QUE PONE LAS DOS IMÁGENES LADO A LADO -->
-<div style="display: flex; justify-content: center; gap: 20px;">
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=hernan-solis&theme=radical&hide_border=false&include_all_commits=false&count_private=false"
+        height="180px"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernan-solis&theme=radical&hide_border=false&layout=compact"
+        height="180px"
+      />
+    </td>
+  </tr>
+</table>
 
-  <!-- Estadísticas -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hernan-solis&theme=radical&hide_border=false&include_all_commits=false&count_private=false"
-    height="180px"
-  />
-
-  <!-- Lenguajes más usados -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernan-solis&theme=radical&hide_border=false&layout=compact"
-    height="180px"
-  />
-
-</div>
