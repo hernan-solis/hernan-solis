@@ -6,13 +6,11 @@
     <a href="https://www.linkedin.com/in/hernan-abel-solis/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-
     <a href="mailto:hernansolis94k@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-
     <a href="https://hernansolis.com/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+        <img align="center" src="https://img.shields.io/badge/WEB-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
 </p>
 
@@ -28,7 +26,7 @@
 I consider myself hardworking and responsible, always looking to learn more and improve my skills. I'm also a precise and organized person, which allows me to achieve my goals effectively and efficiently. I value collaboration and assertive communication, I am practical, perceptive, and highly responsible, which helps me work well both in teams and on individual projects.
 </p>
 
-<!-- Tecnologías conocidas -->
+<!-- Tecnologías -->
 <h2>Known technologies 👨🏻‍💻</h2>
 
 <p align="left">
@@ -42,18 +40,18 @@ I consider myself hardworking and responsible, always looking to learn more and 
 <!-- Sección GitHub Stats -->
 <h2>GitHub :octocat:</h2>
 
-<!-- Contenedor centrado -->
-<div align="center">
+<!-- CONTENEDOR QUE PONE LAS DOS IMÁGENES LADO A LADO -->
+<div style="display: flex; justify-content: center; gap: 20px;">
 
   <!-- Estadísticas -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=hernan-solis&theme=radical&hide_border=false&include_all_commits=false&count_private=false" 
+    src="https://github-readme-stats.vercel.app/api?username=hernan-solis&theme=radical&hide_border=false&include_all_commits=false&count_private=false"
     height="180px"
   />
 
   <!-- Lenguajes más usados -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernan-solis&theme=radical&hide_border=false&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernan-solis&theme=radical&hide_border=false&layout=compact"
     height="180px"
   />
 
