@@ -3,16 +3,16 @@
 
 <!-- Iconos de contacto -->
 <p align="left">
-    <a href="https://www.linkedin.com/in/hernan-abel-solis/" target="blank">
+    <a href="https://www.linkedin.com/in/hernan-abel-solis/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 
-    <a href="mailto:hernansolis94k@gmail.com" target="blank">
+    <a href="mailto:hernansolis94k@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 
-    <a href="https://hernansolis.com/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/WEB-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <a href="https://hernansolis.com/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
     </a>
 </p>
 
@@ -29,7 +29,8 @@ I consider myself hardworking and responsible, always looking to learn more and 
 </p>
 
 <!-- Tecnologías conocidas -->
-<h2>Known technologies👨🏻‍💻</h2>
+<h2>Known technologies 👨🏻‍💻</h2>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,vscode,java,eclipse,py,linux,html,css,bootstrap,mysql,git,github" />
@@ -41,21 +42,19 @@ I consider myself hardworking and responsible, always looking to learn more and 
 <!-- Sección GitHub Stats -->
 <h2>GitHub :octocat:</h2>
 
-<p align="center">
-  <table align="left">
-    <tr border="none">
-      <!-- Estadísticas generales -->
-      <td width="60%" align="center">
-        <img title="🔥 GitHub Stats" 
-             alt="Stats" 
-             src="https://github-readme-stats.vercel.app/api?username=hernan-solis&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-      </td>
+<!-- Contenedor centrado -->
+<div align="center">
 
-      <!-- Lenguajes más usados -->
-      <td width="40%" align="center">
-        <img align="center" 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernan-solis&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-      </td>
-    </tr>
-  </table>
-</p>
+  <!-- Estadísticas -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hernan-solis&theme=radical&hide_border=false&include_all_commits=false&count_private=false" 
+    height="180px"
+  />
+
+  <!-- Lenguajes más usados -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernan-solis&theme=radical&hide_border=false&layout=compact" 
+    height="180px"
+  />
+
+</div>
